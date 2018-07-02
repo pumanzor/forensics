@@ -2,7 +2,7 @@
 
 Realizar el análisis forense a diversos dispositivos y sistemas operativos de manera satisfactoria.
 
-1. INTRODUCCIÓN Y FUNDAMENTOS
+##1. INTRODUCCIÓN Y FUNDAMENTOS
 
  a. Estado del Arte Forense
  b. Introducción a la ciencia forense.
