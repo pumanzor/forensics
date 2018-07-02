@@ -1,19 +1,19 @@
-# Analisis forense institucional
+# Analisis Forense Institucional
 
 Realizar el análisis forense a diversos dispositivos y sistemas operativos de manera satisfactoria.
 
-##1. INTRODUCCIÓN Y FUNDAMENTOS
+## 1. INTRODUCCIÓN Y FUNDAMENTOS
 
- a. Estado del Arte Forense
- b. Introducción a la ciencia forense.
- c. Leyes y ciencia forense.
- d. Proceso de investigación.
+  a. Estado del Arte Forense
+  b. Introducción a la ciencia forense.
+  c. Leyes y ciencia forense.
+  d. Proceso de investigación.
     Metodología
     Evaluación del caso
     Plan de investigación
     Órdenes judiciales y políticas de seguridad
     Evaluación y cierre del caso
-e. Laboratorio forense.
+ e. Laboratorio forense.
 
 2. ADQUISICIÓN DE EVIDENCIAS
 
