@@ -1,0 +1,34 @@
+cd /usr/share/common-licenses
+
+-----------------------------------------------
+imprime linea que contiene el patron "GNU" 
+
+grep "GNU" GPL-3
+---------------------------------------------------
+imprime linea que contiene el patron license en may o min
+
+grep -i "license" GPL-3
+----------------------------------------------------
+imprime lineas que no contienen la regex "the"
+
+grep -v "the" BSD
+----------------------------------------------------
+igual a la anterior pero muestra el numero de linea 
+grep -vn "the" BSD
+----------------------------------------------------
+Imprime las lineas que comienzan con GNU
+grep "^GNU" GPL-3
+----------------------------------------------------
+Imprime las lineas que terminan con el patron "and"
+grep "and$" GPL-3
+----------------------------------------------------
+imprime las lineas que contengan cualquier cosa antes de cept
+grep "..cept" GPL-3
+------------------------------------------------------
+grep "t[wo]o" GPL-3
+-------------------------------------------------------
+grep "[^c]ode" GPL-3
+------------------------------------------------------
+imprime las lineas que comienzan con las letras desde A a la Z en mayus.
+grep "^[A-Z]" GPL-3
+
