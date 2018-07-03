@@ -43,16 +43,17 @@ Realizar el análisis forense a diversos dispositivos y sistemas operativos de m
 * Strong IP network skills :)
 * Conocimientos en sistemas operativos modernos
 * Teoria en implementacion basica de sistemas.
+* Manejo de herramientas de tratamiento de texto , regexp
 
 ## Metas y objetivos
 
 * Mi Meta: 
 
-_proporcionarles las herramientas y conocimientos para comprender y evaluar problemas de seguridad en redes._
+_proporcionarles las herramientas y conocimientos para desplegar un analisis forense digital de manera precisa y satisfactoria._
 
 * del departamento de postgrado
 
-Evidencia las competencias para desempeñarse como especialista en la prevención, detección, manejo y respuesta de incidentes de seguridad en sistemas de información, aplicando conocimientos de gestión, seguridad y resguardo de los sistemas de su Unidad, manteniendo la confidencialidad, integridad y disponibilidad de la información institucional y la capacidad de trabajar en equipo con el personal involucrado en los procesos, incrementando con ello el nivel de seguridad de los sistemas de información institucionales.
+Realizar el análisis forense a diversos elementos y sistemas operativos, utilizando las herramientas más comunes y teniendo presente el marco legal.
 
 ## Calendario
 
@@ -60,10 +61,8 @@ Evidencia las competencias para desempeñarse como especialista en la prevenció
 
 Este curso se compone de:
 
-* 2 pruebas escritas 34% (sin apoyo de libros, paper, internet u cualquier otro medio, solo lapiz y papel)
-* test de salida 6% 
-* 6 laboratorios 40% (1 semana para preparar informe) (MiTM, Firewall, VPN IPSEC, DNS, SMTP, MODBUS)
-* 1 trabajo investigación 20% (trabajo escrito 10%, presentación 10%)
+* 2 pruebas escritas 40% (sin apoyo de libros, paper, internet u cualquier otro medio, solo lapiz y papel) 
+* laboratorios 60% (la nota se obtiene desde los informes de cada lab)
 
 **El criterio de aprobación en todas las evaluaciones es el 60% y las notas deben ser calculadas de acuerdo a la tabla de equivalencia entre % y notas.**
 
