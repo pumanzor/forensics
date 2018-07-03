@@ -26,4 +26,6 @@ https://www.swgde.org/documents/Current%20Documents/SWGDE%20Best%20Practices%20f
 
 5.- Estado del arte - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.459.9967&rep=rep1&type=pdf
 
+6.- Garfinkel - https://dfrws.org/sites/default/files/session-files/paper-digital_forensics_research_-_the_next_10_years.pdf
+
 ------
