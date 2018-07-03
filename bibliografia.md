@@ -29,7 +29,6 @@ https://www.swgde.org/documents/Current%20Documents/SWGDE%20Best%20Practices%20f
 6.- Garfinkel - https://dfrws.org/sites/default/files/session-files/paper-digital_forensics_research_-_the_next_10_years.pdf
 
 7.- ACPO https://www.7safe.com/docs/default-source/default-document-library/acpo_guidelines_computer_evidence_v4_web.pdf
-
-8.- https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux
+b
 
 ------
