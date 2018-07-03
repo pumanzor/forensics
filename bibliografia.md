@@ -24,4 +24,6 @@ https://www.swgde.org/documents/Current%20Documents/SWGDE%20Best%20Practices%20f
 
 4.- Conv. de Budapest - https://www.camara.cl/pdf.aspx?prmTIPO=DOCUMENTOCOMUNICACIONCUENTA&prmID=11019
 
+5.- Estado del arte - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.459.9967&rep=rep1&type=pdf
+
 ------
