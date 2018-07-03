@@ -12,7 +12,7 @@ paperback
 -----
 online
 
-Cap1 |a,b,c
+Cap1 | a,b,c
 
 1.- https://www.swgde.org/
 
