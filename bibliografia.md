@@ -8,10 +8,14 @@ paperback
  
  3.- PHILLIP, AARON y otros, (2009), hacking exposed: computer forensics, MacGraw-Hill Professional
  
- 4.- https://www.forensicmag.com/article/2011/12/digital-forensics-cyber-exchange-principle
 
 -----
-online pdf
+online
 
 1.- https://www.swgde.org/
+
+2.- https://www.forensicmag.com/article/2011/12/digital-forensics-cyber-exchange-principle
+ 
+3.- Ley 19223 - https://www.leychile.cl/Navegar?idNorma=30590
+
 
