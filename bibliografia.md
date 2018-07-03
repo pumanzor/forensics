@@ -7,9 +7,11 @@ paperback
  2.- CARRIER, B (2011), System forensic analysis, England: University, London: Addison Wesley
  
  3.- PHILLIP, AARON y otros, (2009), hacking exposed: computer forensics, MacGraw-Hill Professional
+ 
+ 4.- https://www.forensicmag.com/article/2011/12/digital-forensics-cyber-exchange-principle
 
 -----
-onlien pdf
+online pdf
 
 1.- https://www.swgde.org/
 
