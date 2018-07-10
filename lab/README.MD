@@ -16,7 +16,8 @@ LAB Analisis Forense N°1
     3.2.- Particione el disco con un tamaño de 2GB
     3.3.- Crear un sistema de archivos
     3.4.- Monte la unidad en el punto de montaje /mnt/disk
-    3.5.- Copie archivos con evidencia a analizar dentro del punto de montaje, elimine algunos archivos (anote el nombre y contenido)
+    3.5.- Copie archivos con evidencia a analizar dentro del punto de montaje, elimine algunos 
+    archivos (anote el nombre y contenido)
 
 4.-Trabajando con dcfldd, se presentan 2 posibilidades, a.- que existen los medios para transportar la evidencia de manera fisica,b.- no existe los medios para transportar la evidencia y necesario un metodo auxiliar.
 
@@ -40,10 +41,13 @@ LAB Analisis Forense N°1
 
     6.1 ejecute testdisk imagen.dd  (o photorec)
     6.2 siga los pasos que se encuentran en pantalla
-    6.3 busque archivos que se hayan borrado previamente del disco al cual se esta aplicando el analisis (imagen.dd)
+    6.3 busque archivos que se hayan borrado previamente del disco al cual se esta aplicando 
+    el analisis (imagen.dd)
     6.4 Recupere los archivos y compare con los que habia anotado en el punto 3.5
-    6.5 Repita todos los pasos desde 4.- pero con una memoria USB flash (Genere el formato en FAT32, copie archivos dentro del usb, elimine el 90% de los archivos y luego siga los pasos desde 4.-)
-    6.6 Indique si fue posible recuperar los archivos previamente eliminados mediante una imagen desde SSD y/o desde una imagen de disco USB flash
+    6.5 Repita todos los pasos desde 4.- pero con una memoria USB flash (Genere el formato en FAT32, 
+    copie archivos dentro del usb, elimine el 90% de los archivos y luego siga los pasos desde 4.-)
+    6.6 Indique si fue posible recuperar los archivos previamente eliminados mediante una imagen 
+    desde SSD y/o desde una imagen de disco USB flash
 
 7.- Confeccionar un informe con los pasos y procedimientos segun el manual de buenas practicas de ACPO.
 
