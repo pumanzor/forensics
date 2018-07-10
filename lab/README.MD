@@ -6,7 +6,7 @@
 
 2.- Una vez dentro del equipo instalar las siguientes paquetes de software:
 
-2.1 dcfld, autopsy, forensics-all, sleuthkit, foremost, afflib-tools
+2.1 dcfld, autopsy, forensics-all, sleuthkit, foremost, afflib-tools, testdisk
 
 3.- Montar en /mnt/disk la segunda unidad SSD que se encuentra en su equipo, para ello
 
