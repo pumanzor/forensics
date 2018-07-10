@@ -30,6 +30,12 @@ dcfldd hash=sha1 hashwindow=1G if=/dev/sdX of=image.dd
 
 dcfldd vf=image.dd if=/dev/sdX
 
+5.- Extraer una imagen de disco y copiarla via red hacia otro equipo
+
+dcfldd hash=sha1 if=/dev/sdX |ssh user@192.168.200.aaa dd of=/home/user/image.dd
+
+
+
 
 
 
