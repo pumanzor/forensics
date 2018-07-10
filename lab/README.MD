@@ -36,9 +36,9 @@ LAB Analisis Forense N°1
 
      dcfldd hash=sha1 if=/dev/sdX |ssh user@192.168.200.aaa dd of=/home/user/image.dd
 
-6.- Teniendo disponible la imagen a analizar, utilizaremos la herramienta testdisk para hacer una revision de la imagen de disco
+6.- Teniendo disponible la imagen a analizar, utilizaremos la herramienta testdisk y photorec para hacer una revision de la imagen de disco y buscar archivos eliminados previamente (antes de generar la imagen)
 
-    6.1 ejecute testdisk imagen.dd
+    6.1 ejecute testdisk imagen.dd  (o photorec)
     6.2 siga los pasos que se encuentran en pantalla
     6.3 busque archivos que se hayan borrado previamente del disco al cual se esta aplicando el analisis (imagen.dd)
     6.4 Recupere los archivos y compare con los que habia anotado en el punto 3.5
