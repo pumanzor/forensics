@@ -49,7 +49,7 @@ LAB Analisis Forense N°1
     6.6 Indique si fue posible recuperar los archivos previamente eliminados mediante una imagen 
     desde SSD y/o desde una imagen de disco USB flash
 
-7.- Confeccionar un informe con los pasos y procedimientos segun el manual de buenas practicas de ACPO.
+7.- Confeccionar un informe con los pasos y procedimientos estudiados en clases.
 
 
 
