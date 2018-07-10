@@ -6,7 +6,7 @@
 
 2.- Una vez dentro del equipo instalar las siguientes paquetes de software:
 
-2.1 dcfld, autopsy, forensics-all, sleuthkit, foremost, afflib-tools, testdisk
+2.1 dcfld, autopsy, forensics-all, sleuthkit, foremost, afflib-tools, testdisk, photorec
 
 3.- Montar en /mnt/disk la segunda unidad SSD que se encuentra en su equipo, para ello
 
@@ -16,7 +16,7 @@
 3.4.- Monte la unidad en el punto de montaje /mnt/disk
 3.5.- Copie archivos con evidencia a analizar dentro del punto de montaje, elimine algunos archivos (anote el nombre y contenido)
 
-4.-Trabajando con dcfldd
+4.-Trabajando con dcfldd, se presentan 2 posibilidades, a.- que existen los medios para transportar la evidencia de manera fisica,b.- no existe los medios para transportar la evidencia y necesario un metodo auxiliar.
 
 4.1.- crear un imagen del disco a analizar y tome un resumen md5 del mismo
 
@@ -34,6 +34,16 @@ dcfldd vf=image.dd if=/dev/sdX
 
 dcfldd hash=sha1 if=/dev/sdX |ssh user@192.168.200.aaa dd of=/home/user/image.dd
 
+6.- Teniendo disponible la imagen a analizar, utilizaremos la herramienta testdisk para hacer una revision de la imagen de disco
+
+6.1 ejecute testdisk imagen.dd
+6.2 siga los pasos que se encuentran en pantalla
+6.3 busque archivos que se hayan borrado previamente del disco al cual se esta aplicando el analisis (imagen.dd)
+6.4 Recupere los archivos y compare con los que habia anotado en el punto 3.5
+6.5 Repita todos los pasos desde 4.- pero con una memoria USB flash (Genere el formato en FAT32, copie archivos dentro del usb, elimine el 90% de los archivos y luego siga los pasos desde 4.-)
+6.6 Indique si fue posible recuperar los archivos previamente eliminados mediante una imagen desde SSD y/o desde una imagen de disco USB flash
+
+7.- Confeccionar un informe con los pasos y procedimientos segun el manual de buenas practicas de ACPO.
 
 
 
