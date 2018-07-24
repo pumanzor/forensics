@@ -15,4 +15,8 @@ ps -fea|grep gpg
 
 gpg --gen-key
 
+exportar
+--------------------------
+gpg --armor --output mipub.asc --export info@redlibre.cl
+
 
