@@ -20,3 +20,8 @@ exportar
 gpg --armor --output mipub.asc --export info@redlibre.cl
 
 
+importar
+----------------
+gpg --import key.asc 
+
+
