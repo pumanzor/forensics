@@ -1,0 +1,8 @@
+    $ linux32 ./configure
+    $ linux32 make
+    
+    
+
+for img in `find /path/to/images/ -iname "*jpg"`; do
+        ./stegdetect -tF $img;
+    done
