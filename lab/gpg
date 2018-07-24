@@ -1,0 +1,18 @@
+apt-get install rng-tools
+
+vi /etc/default/rng-tools
+
+HRNGDEVICE=/dev/urandom
+
+systemctl restart rng-tools
+
+systemctl status rng-tools
+
+pkill gpg-agent
+
+
+ps -fea|grep gpg
+
+gpg --gen-key
+
+
